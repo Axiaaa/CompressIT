@@ -13,4 +13,4 @@ Toutes les issues et les pull requests sont les bienvenues ! Si vous trouvez un 
 
 Les contributions doivent être claires et bien documentées pour être prises en compte.
 
-Ce projet est déstiné à rester open-source.
+#### Ce projet est déstiné à rester open-source.
