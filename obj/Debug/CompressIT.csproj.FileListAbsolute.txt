@@ -1,0 +1,11 @@
+C:\Users\hcame\OneDrive\Bureau\CompressIT\bin\Debug\CompressIT.exe.config
+C:\Users\hcame\OneDrive\Bureau\CompressIT\bin\Debug\CompressIT.exe
+C:\Users\hcame\OneDrive\Bureau\CompressIT\bin\Debug\CompressIT.pdb
+C:\Users\hcame\OneDrive\Bureau\CompressIT\obj\Debug\CompressIT.csproj.AssemblyReference.cache
+C:\Users\hcame\OneDrive\Bureau\CompressIT\obj\Debug\CompressIT.csproj.SuggestedBindingRedirects.cache
+C:\Users\hcame\OneDrive\Bureau\CompressIT\obj\Debug\CompressIT.Form1.resources
+C:\Users\hcame\OneDrive\Bureau\CompressIT\obj\Debug\CompressIT.Properties.Resources.resources
+C:\Users\hcame\OneDrive\Bureau\CompressIT\obj\Debug\CompressIT.csproj.GenerateResource.cache
+C:\Users\hcame\OneDrive\Bureau\CompressIT\obj\Debug\CompressIT.csproj.CoreCompileInputs.cache
+C:\Users\hcame\OneDrive\Bureau\CompressIT\obj\Debug\CompressIT.exe
+C:\Users\hcame\OneDrive\Bureau\CompressIT\obj\Debug\CompressIT.pdb
